@@ -31,7 +31,7 @@ ubqminer-single=poolpass1 x
 miner c94e13 ubqminer-single
 ```
 
-Where ```c94e13``` is your EthOS rig ID.
+Where ```c94e13``` is your EthOS rig hostname.
 Or you can use ubqminer miner globally by default for your all rigs:
 
 ```
